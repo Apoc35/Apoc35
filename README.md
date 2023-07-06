@@ -8,7 +8,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil!
 
 - 💼 FrontEnd Developed studying ReactJS and JavaScript
 
-- ❤️ I love to study and work with alot of languages testing things 🐱
+- ❤️ I love to study, work and test things with alot of languages🐱
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
