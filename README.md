@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="200" src="https://i.gifer.com/qyZ.gif"  />
+<picture>
+<img align="right" height="200" src="https://i.gifer.com/qyZ.gif"/>
+</picture>
 
 ###
 
@@ -39,6 +41,8 @@
 
 <br clear="both">
 
+<picture>
 <img src="https://raw.githubusercontent.com/Apoc35/Apoc35/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
