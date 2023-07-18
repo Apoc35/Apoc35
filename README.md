@@ -39,8 +39,6 @@
 
 ###
 
-<br clear="both">
-
 <picture>
 <img src="https://raw.githubusercontent.com/Apoc35/Apoc35/output/snake.svg" alt="Snake animation" />
 </picture>
