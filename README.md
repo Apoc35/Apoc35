@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alex!<br> :wolf: I'm a self-taught passionate FrontEnd developer from Brazil!</h2>
+<h3 align="left">Hi ! My name is Alex!<br><br>I'm a self-taught passionate FrontEnd developer from Brazil.<br><br>Studying and developing with ReactJS right now.<br><br>I know a bit of Angular o/</h3>
 
 ###
 
@@ -39,10 +39,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+<img src="https://raw.githubusercontent.com/Apoc35/Apoc35/output/snake.svg" alt="Snake animation" />
 
 ###
